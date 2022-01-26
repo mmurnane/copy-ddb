@@ -1,0 +1,20 @@
+{
+  "name": "esbuild-tempalte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild-node-tsc": "^1.8.2",
+    "esbuild-plugin-tsc": "^0.2.0",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
